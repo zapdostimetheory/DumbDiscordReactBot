@@ -1,5 +1,5 @@
 # DumbDiscordReactBot
-A easily configurable Discord bot to react to messages in your owned/admined servers.
+An easily configurable Discord bot to react to messages in your owned/admined servers.
 
 This was done on a whim to see if I could bring a bot online who could react to what my friends said in the chat. We liked to poke fun of each others' console choices, hence the console bashing. I left it in as tribute to my friends. 
 
